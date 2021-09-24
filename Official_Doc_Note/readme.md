@@ -3,4 +3,4 @@
 > esbuild version: 0.12.28
 
 - [快速开始 Getting Started](https://github.com/mangobuaa/head-first-esbuild/tree/master/Official_Doc_Note/01_Getting_Started)
-- [内容类型 Content Types]()
+- [内容类型 Content Types](https://github.com/mangobuaa/head-first-esbuild/tree/master/Official_Doc_Note/02_Content_Types)
